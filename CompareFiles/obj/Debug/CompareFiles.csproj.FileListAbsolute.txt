@@ -1,0 +1,10 @@
+D:\D_Documents\Tools\CompareFiles\CompareFiles\bin\Debug\CompareFiles.exe.config
+D:\D_Documents\Tools\CompareFiles\CompareFiles\bin\Debug\CompareFiles.exe
+D:\D_Documents\Tools\CompareFiles\CompareFiles\bin\Debug\CompareFiles.pdb
+D:\D_Documents\Tools\CompareFiles\CompareFiles\obj\Debug\CompareFiles.csprojAssemblyReference.cache
+D:\D_Documents\Tools\CompareFiles\CompareFiles\obj\Debug\CompareFiles.Form1.resources
+D:\D_Documents\Tools\CompareFiles\CompareFiles\obj\Debug\CompareFiles.Properties.Resources.resources
+D:\D_Documents\Tools\CompareFiles\CompareFiles\obj\Debug\CompareFiles.csproj.GenerateResource.cache
+D:\D_Documents\Tools\CompareFiles\CompareFiles\obj\Debug\CompareFiles.csproj.CoreCompileInputs.cache
+D:\D_Documents\Tools\CompareFiles\CompareFiles\obj\Debug\CompareFiles.exe
+D:\D_Documents\Tools\CompareFiles\CompareFiles\obj\Debug\CompareFiles.pdb
